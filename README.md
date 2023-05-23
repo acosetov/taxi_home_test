@@ -20,10 +20,10 @@ GROUP BY
 ORDER BY average_tip DESC LIMIT 10;
 ~~~
 ## Additional information
-1. Access to Apache Airflow with working DAG
-**url:**http://34.133.246.248:8080
-**user:** admin
-**password:** 1Dem0Pa$$w0rd!
-2. Google Bigquery
+1. Access to Apache Airflow with working DAG \
+**url:** http://34.133.246.248:8080 \
+**user:** admin \
+**password:** 1Dem0Pa$$w0rd! 
+2. Google Bigquery \
 **url:** https://console.cloud.google.com/bigquery?project=upbeat-medley-387014&p=upbeat-medley-387014&d=taxi_dataset 
 > **Note:** To access the dataset via the provided link, you need to be logged in to your Google account.
